@@ -32,8 +32,8 @@ public class UID8 {
         for (int i = 0; i < String.valueOf(this.creationEpoch).length(); i++) {
 
             char[] numChars = String.valueOf(this.creationEpoch).toCharArray();
-
             char[] rndChars = new char[2];
+
             rndChars[0] = chars[new Random().nextInt(chars.length)];
             rndChars[1] = chars[new Random().nextInt(chars.length)];
 

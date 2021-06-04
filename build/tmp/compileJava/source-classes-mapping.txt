@@ -1,0 +1,4 @@
+xyz/dev_8/eightuid/UID8.java
+ xyz.dev_8.eightuid.UID8
+xyz/dev_8/eightuid/Main.java
+ xyz.dev_8.eightuid.Main

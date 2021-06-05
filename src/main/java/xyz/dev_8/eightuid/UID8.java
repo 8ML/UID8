@@ -26,7 +26,7 @@ public class UID8 {
         this.uid = uid;
     }
 
-    public void create() {
+    private void create() {
 
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < String.valueOf(this.creationEpoch).length(); i++) {
